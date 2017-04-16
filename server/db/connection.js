@@ -42,13 +42,13 @@ function connect(config = {}) {
 
 
 export const devConfig = {
-  uri: 'mongodb://localhost:27017/image-sharing-dev',
+  uri: 'mongodb://localhost:27017/startup-project-dev',
   options: {},
 };
 
 
 export const testConfig = {
-  uri: 'mongodb://localhost:27017/image-sharing-test',
+  uri: 'mongodb://localhost:27017/startup-project-test',
   options: {},
 };
 
