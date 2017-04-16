@@ -11,6 +11,8 @@ react, redux, redux-sagas, redux-form, react-router-v4, reselect, material-ui, r
 #### Back-end
 nodejs, express, mongoose, nodemailer, jsonwebtoken
 
+#### Test
+mocha, chai, supertest
 
 ## Include
   - Authentifaction JWT
